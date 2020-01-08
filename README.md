@@ -3,7 +3,9 @@ Curated collection of simple app icon logos
 
 ![banner](assets/banner.png)
 
-#### Pull requests are welcome.
+## Requests
+
+Just open an issue describing your preferred icon design :sparkles:
 
 ## Licence
 
