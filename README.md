@@ -21,4 +21,4 @@ MIT
 
 ## Support
 
-[Support development] (https://paypal.me/alanbrown2370) :heart:
+[Support](https://paypal.me/alanbrown2370) :heart:
