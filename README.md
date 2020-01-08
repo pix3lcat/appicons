@@ -7,6 +7,10 @@ Curated collection of simple app icon logos
 
 Just open an issue describing your preferred icon design :sparkles:
 
+## Contribute
+
+PR requests are welcome :octocat:
+
 ## Licence
 
 MIT
